@@ -1,17 +1,3 @@
-<!--
-**milanniiure/milanniiure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
  -👋 Cybersecurity student @ RMIT University<br>- 🔭 I’m currently working on ...my logic building skills<br>- 🌱 I’m currently learning ...CTFs + data analytics + python <br>- 👯 I’m looking to collaborate on ...projects<br>- 🤔 I’m looking for help with ...nothing<br>- 💬 Ask me about ...nothing<br>- 📫 How to reach me: on linkedin/fb/insta<br>- 😄 Pronouns: ...he/him<br>- ⚡ Fun fact: ...nothing
 
@@ -29,17 +15,9 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Graph
 ![snake gif](https://github.com/milanniiure/milanniiure/blob/output/github-contribution-grid-snake.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=milanniiure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=milanniiure&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=milanniiure&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Cybersecurity+Enthusiast;Full-Stack+Learner;Open-Source+Contributor)](https://git.io/typing-svg)
 
