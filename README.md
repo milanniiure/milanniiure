@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=milanniiure&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=milanniiure&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milanniiure&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanniiure&show_icons=true&theme=radical)
+
 
 ## 🐍 Contribution Graph
 ![snake gif](https://github.com/milanniiure/milanniiure/blob/output/github-contribution-grid-snake.svg)
