@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=milanniiure&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Cybersecurity+Enthusiast;Full-Stack+Learner;Open-Source+Contributor)](https://git.io/typing-svg)
+
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Cybersecurity+Enthusiast;Full-Stack+Learner;Open-Source+Contributor)](https://git.io/typing-svg)
+
 
 <!-- Created@milanniure -->
