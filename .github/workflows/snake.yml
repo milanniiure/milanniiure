@@ -12,8 +12,8 @@ jobs:
       - name: Checkout this repository
         uses: actions/checkout@v3
 
-      - name: Run Snake
-        uses: aloxaf/snake@master
+      - name: Generate GitHub Snake animation
+        uses: jahirfiquitiva/github-snake-animation@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           since: '2021-01-01'
