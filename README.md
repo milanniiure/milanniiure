@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=milanniiure&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milanniiure&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Contribution Graph
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=milanniiure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -40,7 +43,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Cybersecurity+Enthusiast;Full-Stack+Learner;Open-Source+Contributor)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
