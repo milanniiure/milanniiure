@@ -13,9 +13,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate GitHub Snake animation
-        uses: jahirfiquitiva/github-snake-animation@main
+        uses: Platane/snk@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          since: '2021-01-01'
-          speed: 50
-          fps: 20
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-snake.svg
+          gif_out_path: dist/github-snake.gif
+          color_snake: green
+          color_dots: '#c6e48b,#7bc96f,#239a3b,#196127'
