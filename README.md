@@ -16,7 +16,10 @@
 
 
 ## 🐍 Contribution Graph
-![snake gif](https://github.com/milanniiure/milanniiure/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/milanniiure/milanniiure/blob/output/snake.gif" width="600"/>
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
