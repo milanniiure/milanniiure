@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **milanniiure/milanniiure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 👋 Hi there, I'm Milan, cybersec student @ RMIT University<br>- 🔭 I’m currently working on ...my logic building skills<br>- 🌱 I’m currently learning ...CTFs + data analytics + python <br>- 👯 I’m looking to collaborate on ...projects<br>- 🤔 I’m looking for help with ...nothing<br>- 💬 Ask me about ...nothing<br>- 📫 How to reach me: on linkedin/fb/insta<br>- 😄 Pronouns: ...he/him<br>- ⚡ Fun fact: ...nothing
+- 👋 Cybersecurity student @ RMIT University<br>- 🔭 I’m currently working on ...my logic building skills<br>- 🌱 I’m currently learning ...CTFs + data analytics + python <br>- 👯 I’m looking to collaborate on ...projects<br>- 🤔 I’m looking for help with ...nothing<br>- 💬 Ask me about ...nothing<br>- 📫 How to reach me: on linkedin/fb/insta<br>- 😄 Pronouns: ...he/him<br>- ⚡ Fun fact: ...nothing
 
 
 ## 🌐 Socials:
