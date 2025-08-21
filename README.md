@@ -16,9 +16,8 @@
 
 
 ## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/milanniiure/milanniiure/blob/output/snake.gif" width="600"/>
-</p>
+![GitHub Snake](https://github.com/milanniiure/milanniiure/blob/output/github-snake.svg)
+
 
 
 
