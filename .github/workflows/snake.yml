@@ -16,3 +16,6 @@ jobs:
         uses: aloxaf/snake@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          since: '2021-01-01'
+          speed: 50
+          fps: 20
