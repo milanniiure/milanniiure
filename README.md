@@ -1,5 +1,5 @@
 # 💫 About Me:
- -👋 Cybersecurity student @ RMIT University<br>- 🔭 I’m currently working on ...my logic building skills<br>- 🌱 I’m currently learning ...CTFs + data analytics + python <br>- 👯 I’m looking to collaborate on ...projects<br>- 🤔 I’m looking for help with ...nothing<br>- 💬 Ask me about ...nothing<br>- 📫 How to reach me: on linkedin/fb/insta<br>- 😄 Pronouns: ...he/him<br>- ⚡ Fun fact: ...nothing
+ -👋 Cybersecurity student @ RMIT University<br>- 🔭 I’m currently working on ...my logic building skills<br>- 🌱 I’m currently learning ...CTFs + data analytics + python <br>- 👯 I’m looking to collaborate on ...projects<br>- 🤔 I’m looking for help with ...nothing<br>- 💬 Ask me about ...nothing<br>- 📫 How to reach me: on linkedin/fb/insta<br>-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Cybersecurity+Student;Full-Stack+Learner;AI-ML+Enthusiast)](https://git.io/typing-svg)
 
